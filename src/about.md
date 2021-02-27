@@ -4,6 +4,4 @@ layout: layouts/about.html
 permalink: "/about-us/index.html"
 
 ---
-Wanna see our foosball table? Nah, only kidding. We’re a made-up
-agency that are being used as the context for the Piccalilli course,
-[Learn Eleventy From Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/).
+Nell'Aprile del 1948, nel fervore dell'Italia della ricostruzione, a Milano in casa di Gianni Roghi, eclettico ed intraprendente giornalista... [La storia del Goggler Club Milano](/about.html "La storia del Goggler Club Milano").
