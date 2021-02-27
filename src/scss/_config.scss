@@ -29,22 +29,22 @@ $gorko-size-scale: (
  * Colors are shared between backgrounds and text by default. 
  * You can also use them to power borders, fills or shadows, for example.
  */
-$gorko-colors: (
+ $gorko-colors: (
   'dark': #38445b,
   'dark-shade': #263147,
   'dark-glare': #505c73,
-  'light': #f9f4e3,
-  'light-shade': #fff6d7,
-  'light-glare': #fdfbf3,
+  'light': #eceef9,
+  'light-shade': #b9c6e8,
+  'light-glare': #beccdc,
   'primary': #513aa6,
-  'primary-shade': #432e92,
+  'primary-shade': #1e1e1f,
   'primary-glare': #654ac9,
   'secondary': #6ac2b6,
   'secondary-shade': #35a495,
   'secondary-glare': #98e2d8,
-  'tertiary': #ffd490,
-  'tertiary-shade': #ffca77,
-  'tertiary-glare': #ffdeaa,
+  'tertiary': #ffa490,
+  'tertiary-shade': #ffa777,
+  'tertiary-glare': #ffbeaa,
   'quaternary': #ff7f5c,
   'quaternary-shade': #f96841,
   'quaternary-glare': #fe9476,
