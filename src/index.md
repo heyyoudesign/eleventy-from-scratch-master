@@ -1,14 +1,14 @@
 ---
-title: Goggler
+title: Goggler Club Milano
 metaDesc: Dal 1948 il Goggler Club mette a disposizione la sua esperienza offrendo
   corsi di subacquea e di apnea a tutti i livelli.
 layout: layouts/home.html
 intro:
-  eyebrow: Digital Marketing is our
-  main: Bread & Butter
-  summary: Let us help you create the perfect campaign with our multi-faceted team
-    of talented creatives.
-  buttonText: See our work
+  eyebrow: Il club subacqueo più vecchio d'Italia
+  main: Goggler Club Milano
+  summary: Nell'Aprile del 1948, nel fervore dell'Italia della ricostruzione, a Milano
+    in casa di Gianni Roghi, eclettico ed intraprendente giornalista...
+  buttonText: Leggi tutta la storia
   buttonUrl: "/work"
   image: "/images/bg/toast.jpg"
   imageAlt: Buttered toasted white bread
