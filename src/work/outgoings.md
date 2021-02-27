@@ -23,7 +23,7 @@ gallery:
 - title: Multi-account support
   summary: We wanted the app to be as useful as possible, so multi-account support
     was a natural choice.
-  image: "/images/work/outgoings-gallery-1.jpg"
+  image: dist/images/apnea.webp
 - title: Concise summaries
   summary: The numbers speak volumes, so we give them center stage.
   image: "/images/work/outgoings-gallery-2.jpg"
