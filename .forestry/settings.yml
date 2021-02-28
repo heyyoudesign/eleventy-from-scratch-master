@@ -22,6 +22,8 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: heading
+  label: Contenuti interni
 - type: directory
   path: src/people
   label: Team
