@@ -1,9 +1,11 @@
 ---
-title: 'Why cross-cultural design really matters'
-date: '2020-04-01'
-tags: ['Culture', 'Design Thinking']
----
+title: Why cross-cultural design really matters
+date: 2020-04-01
+tags:
+- Culture
+- Design Thinking
 
+---
 Lorem markdownum teneri dives, vota inarsit, numina qui mixto. Oculos quo vestro fero inrequieta magni. Ad inania pedes et volucrem, sub ex facti, nec huc curvamina! Semina cum sonitusque fraterno Meriones animas pervenit iusta populos faciem. Colebat et saepe!
 
 1. Et Hectoris quaeque
@@ -19,9 +21,11 @@ Modo talia, nebulae quem. Sed ducit ossaque humilis lumine, excusantia Actorides
 
 Perit semideique copia. Quod tu, et **enim** inmurmurat perque, nocent adfectat ut acrior [missi](#per-inproba). Romanae est! Stipite hasta micante, puppe canities matris virgineosque duo rursus tamen mundus perque deus. Languescuntque Interea contigit ipsosque, est ore [esset](#umbrosum-medius-esse); coronae mandatam quaque os per, deique caedis.
 
-- Ille inclusit summa forem arborea tactus in
-- Tellure refert
-- Huic quantum credere terram
+![](/v1614536214/social-share_rjqact.png)
+
+* Ille inclusit summa forem arborea tactus in
+* Tellure refert
+* Huic quantum credere terram
 
 ## Aversa et sinistra flava praemia proelia ala
 
