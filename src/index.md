@@ -10,7 +10,7 @@ intro:
     in casa di Gianni Roghi, eclettico ed intraprendente giornalista...
   buttonText: Leggi tutta la storia
   buttonUrl: "/work"
-  image: dist/images/apnea.webp
+  image: images/apnea.webp
   imageAlt: Goggler che nuota in apnea
 primaryCTA:
   title: La nostra storia
