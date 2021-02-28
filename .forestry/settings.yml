@@ -4,9 +4,22 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Pagine
+- type: document
+  path: src/index.md
+  label: Home
+- type: document
+  path: src/about.md
+  label: Chi siamo
 - type: directory
   path: src/work
   label: Corsi
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/posts
+  label: Blog
   create: all
   match: "**/*"
 - type: directory
@@ -19,12 +32,6 @@ sections:
   label: Data
   create: all
   match: "**/*"
-- type: document
-  path: src/about.md
-  label: chi siamo
-- type: document
-  path: src/index.md
-  label: home
 upload_dir: src/images
 public_path: images
 front_matter_path: ''
